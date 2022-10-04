@@ -1,0 +1,5 @@
+= antora-example
+A documentation repository that is for antora  generation.
+
+
+The intention is to provide an example repository that generates an antora website, as well as PDF from github actions.
